@@ -1,4 +1,4 @@
 # tic-tac-toe
 
-npm i
-npm start
+* npm i
+* npm start
